@@ -43,3 +43,4 @@ document.getElementsByTagName("title")[0].innerText = '종톨 수박게임';
 // 开启选分弹窗：将 false 改为 true
 let selectModal = false;
 
+console.log('test이페이지')
